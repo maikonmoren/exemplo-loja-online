@@ -1,0 +1,181 @@
+{
+    "roupa":[
+        {
+            "id":1,
+            "nome":"Camiseta Astronauta",
+            "descricacao":"Camiseta Astronauta tamanho P a GG",
+            "categoria":"camisetas",
+            "preco":64.90,
+            "imagem":"https://img.elo7.com.br/product/zoom/2550A0C/camiseta-astronauta-skate-masculina.jpg",
+            "link":"https://www.elo7.com.br/camiseta-astronauta-skate/dp/EAE634"
+        },
+        {
+            "id":2,
+            "nome":"Camiseta Swag Nigga",
+            "descricacao":"Camiste MaNigga",
+            "categoria":"camisetas",
+            "preco":53.90,
+            "imagem":"https://img.elo7.com.br/product/main/2565C6A/camisetas-masculinas-manigga-s-camiseta-larga.jpg",
+            "link":"https://www.elo7.com.br/camisetas-masculinas-manigga-s/dp/EB6749?pp=1&pn=1&nav=sch_pd_sr_1_1&qrid=OQtM0g23L5NF#wpm=0&drzv=1&cat=1&rcp=1&hpa=0&lpfcm=1&pso=up&ps2=1&sdps=0&dwhc=1&rch=1&hsv=1&bf=0&pcpe=1&pssb=1&osrlt7=0&ucrq=1&supc=1&psews=1&pnt=0&spsem=1&carf=1&paok=1&droam=0&sgta=1&df=d&rps=0&srm=1&vpl=1&fsfv=0&ssl=0&sew=0&dld=1&deac=1&wppbm=1&dqs=1&csdm=1&sms=0&spc=1&staa=0&smsm=0&usb=0&sseov=0&ses=0&rcpd=1&wppbd=1&sei=0&cscws=1&disc=1&suf=0&uje=0&smps=0&rfn=0&sedk=1&sewb=0&uso=o&wcld=1&smc=1&dcc=0&idfs=1&psedm=1&osrl=0&lvbbob=1&sum=0&sep=1&auto=1&cpr=0&utp=1&accb=0&fnc=0&oppb=0&secpl=1&wsld=1&doar=0&inp=0&sed=0"
+        },
+        {
+            "id":3,
+            "nome":"Moletom amarelo",
+            "descricacao":"Moletom Canguru Planeta com capuz em Algodão Unissex - Amarelo",
+            "categoria":"blusa",
+            "preco":72.90,
+            "imagem":"https://static.netshoes.com.br/produtos/moletom-canguru-planeta-com-capuz-em-algodao-unissex/30/RPM-0010-030/RPM-0010-030_zoom1.jpg?ts=1598035600&ims=544x",
+            "link":"https://www.netshoes.com.br/moletom-canguru-planeta-com-capuz-em-algodao-unissex-amarelo-RPM-0010-030"
+        },
+        {
+            "id":4,
+            "nome":"Moletom preto Liso",
+            "descricacao":"Moletom preto liso",
+            "categoria":"blusa",
+            "preco":149.90,
+            "imagem":"https://static.dafiti.com.br/p/Relaxado-Blusa-De-Moletom-Liso-Relaxado-Com-Capuz-Bolso-Canguru-6081-7665795-1-zoom.jpg",
+            "link":"https://www.kanui.com.br/Blusa-De-Moletom-Liso-Relaxado-Com-Capuz-Bolso-Canguru-5975667.html"
+        },
+        {
+            "id":5,
+            "nome":"Camiseta Swag King of Rappers",
+            "descricacao":"Camiseta cinza rappers americanos",
+            "categoria":"camisetas",
+            "preco":69.90,
+            "imagem":"url",
+            "link":"https://produto.mercadolivre.com.br/MLB-833621483-camiseta-swag-king-of-rappers-california-niggas-los-angeles-_JM?searchVariation=14329278160#searchVariation=14329278160&position=1&type=item&tracking_id=b55750ce-edfe-4c25-b90f-3a3ef9563c88"
+        },
+        {
+            "id":6,
+            "nome":"Moletom Opala",
+            "descricacao":"Moletom Chevrolet Opala Gerações Mescla XG",
+            "categoria":"blusa",
+            "preco":139.90,
+            "imagem":"https://cd.shoppub.com.br/rota34/media/cache/11/f8/11f8b2bcf0dfa2197cc4fa0567c76930.jpg",
+            "link":"https://www.rota34.com.br/produto/moletom-chevrolet-opala-geracoes-mescla/"
+        },
+        {
+            "id":7,
+            "nome":"Camiseta Wiz KHalifa",
+            "descricacao":"Camiseta branca Wiz Khalifa",
+            "categoria":"camisetas",
+            "preco":79.90,
+            "imagem":"https://images-americanas.b2w.io/produtos/01/00/img/1522635/1/1522635151_1GG.jpg",
+            "link":"https://www.americanas.com.br/produto/1522635126/camiseta-wiz-khalifa-masculino-rapper-nigga-gang-trap-rap?DCSext.recom=RR_item_page.rr1-ClickCP&desenho%20%20%20impresso=-%2FBranco&nm_origem=rec_item_page.rr1-ClickCP&nm_ranking_rec=2&tamanho=M"
+        },
+        {
+            "id":8,
+            "nome":"Shoulder bag - colorir",
+            "descricacao":"Shoulder bag - colorir - Uatt",
+            "categoria":"acessorios",
+            "preco":49.90,
+            "imagem":"https://a-static.mlcdn.com.br/618x463/shoulder-bag-colorir-uatt/uatt1/29424/15d2daca62af9c904ee2a7cc1be548a3.jpg",
+            "link":"https://www.magazineluiza.com.br/shoulder-bag-colorir-uatt/p/eb65add9db/md/blsa/"
+        },
+        {
+            "id":9,
+            "nome":"Moletom Deadpool",
+            "descricacao":"Moletom Deadpool",
+            "categoria":"blusa",
+            "preco":109.90,
+            "imagem":"https://images.tcdn.com.br/img/img_prod/575454/moletom_deadpool_555_1_20190731110026.jpg",
+            "link":"https://www.palaciogeek.com.br/moletons/moletom-deadpool"
+        },
+      
+        {
+            "id":10,
+            "nome":"Camiseta Paris In",
+            "descricacao":"Camiseta Branca",
+            "categoria":"camisetas",
+            "preco":28.90,
+            "imagem":"https://a-static.mlcdn.com.br/210x210/camiseta-infantil-paris-in-the-spring-tafis/tafis/10102868394/08ddcdb9543bc2c46d6ca95e89ecf7b1.jpg",
+            "link":"https://www.magazineluiza.com.br/camiseta-infantil-paris-in-the-spring-tafis/p/jadb5fak22/rc/rcnm/"
+        },
+        {
+            "id":11,
+            "nome":"Shoulder Bag Crystal",
+            "descricacao":"Shoulder Bag Crystal",
+            "categoria":"acessorios",
+            "preco":49.90,
+            "imagem":"https://47069.cdn.simplo7.net/static/47069/sku/acessorios-shoulder-bag-crystal--p-1578408298913.jpg",
+            "link":"https://www.sevenbrand.com.br/acessorios/shoulder-bag-crystal--p"
+        },
+        {
+            "id":12,
+            "nome":"Alkary - Shouder Bag",
+            "descricacao":"Mini Shoulder Bag Alkary Holográfica",
+            "categoria":"acessorios",
+            "preco":89.90,
+            "imagem":"https://static.dafiti.com.br/p/Alkary-Mini-Shoulder-Bag-Alkary-Hologr%C3%A1fica-8088-0269015-1-zoom.jpg",
+            "link":"https://www.dafiti.com.br/Mini-Shoulder-Bag-Alkary-Holografica-5109620.html"
+        },
+        {
+            "id":13,
+            "nome":"Camiseta Alien Surprise",
+            "descricacao":"Camiseta Branca ",
+            "categoria":"camisetas",
+            "preco":69.90,
+            "imagem":"https://www.opscamisetas.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/a/camiseta_alen_surprise_ops_camisetas-min_2_1.jpg",
+            "link":"https://www.opscamisetas.com.br/camiseta-alien-surprise.html"
+        },
+        {
+            "id":14,
+            "nome":"Shoulder Bag Comptom Black",
+            "descricacao":"Shoulder Bag Black Compton Everbags",
+            "categoria":"acessorios",
+            "preco":89.90,
+            "imagem":"https://cdn.awsli.com.br/535/535592/produto/43615533/c5dc423ad9.jpg",
+            "link":"https://www.everbags.com.br/shoulder-bag-black-compton-everbags"
+        },
+      
+        {
+            "id":15,
+            "nome":"Camiseta Rainbow",
+            "descricacao":"Camiseta feminina",
+            "categoria":"camisetas",
+            "preco":64.90,
+            "imagem":"https://images.tcdn.com.br/img/img_prod/722594/camiseta_rainbow_the_strokes_feminino_1811_1_a5db799fc2e5e0951f8d4c6b63493bbf.jpg",
+            "link":"https://www.reverbcity.com/feminino/camiseta-rainbow-the-strokes-feminino"
+        },
+        {
+            "id":16,
+            "nome":"Jaqueta camuflada",
+            "descricacao":"Jaqueta Parka Camuflada - Verde Militar",
+            "categoria":"blusa",
+            "preco":109.90,
+            "imagem":"https://produtos.fotos-riachuelo.com.br/media/catalog/product/cache/3541e153ef6ead3044d72626c3847968/j/a/jaqueta-parka-camuflada---verde-militar-13374125_foto1_frontal.jpg",
+            "link":"https://www.riachuelo.com.br/jaqueta-parka-camuflada-verde-militar-13374125_sku"
+        },
+        {
+            "id":17,
+            "nome":"Camiseta Diamante Pingando",
+            "descricacao":"Camiseta Diamante Pingando Camisa Masculina Diamond Hip-hop",
+            "categoria":"camisetas",
+            "preco":53.90,
+            "imagem":"https://img.elo7.com.br/product/zoom/22CBA42/camiseta-diamante-pingando-camisa-masculina-diamond-hip-hop-camiseta-swag.jpg",
+            "link":"https://www.elo7.com.br/camiseta-diamante-pingando-camisa-masculina-diamond-hip-hop/dp/DB5647"
+        },
+        {
+            "id":18,
+            "nome":"Corta Vento Holográfico",
+            "descricacao":"Gloss - Jaqueta Corta Vento Holográfico Preto",
+            "categoria":"blusa",
+            "preco":83.60,
+            "imagem":"https://ph-cdn3.ecosweb.com.br/imagens01/foto/roupa-para-menina/jaqueta/jaqueta-corta-vento-holografico-preto_581620_600_5.jpg",
+            "link":"https://www.posthaus.com.br/gloss/roupa-para-menina/jaqueta-corta-vento-holografico-preto_art581620"
+        },
+      
+      
+      
+      
+        {
+            "id":19,
+            "nome":"Camiseta Tupac Shakkur",
+            "descricacao":"Camiseta preta em malha",
+            "categoria":"camisetas",
+            "preco":35.00,
+            "imagem":"https://images-americanas.b2w.io/produtos/01/00/img/2971431/9/2971431997_1GG.jpg",
+            "link":"https://www.americanas.com.br/produto/2971431989?pfm_carac=camiseta-2pac&pfm_index=6&pfm_page=search&pfm_pos=grid&pfm_type=search_page&cor=preta&tamanho=p"
+        }
+    ]
+}
