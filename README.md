@@ -8,6 +8,7 @@
     <li>React router</li>
     <li>Axios</li>
     <li>React-icons</li>
+    <li>React-carousel</li>
     </ul>
 </li>
 <li>Back-end</li>
