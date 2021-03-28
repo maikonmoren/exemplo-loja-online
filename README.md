@@ -1,10 +1,17 @@
 # Skate Shop
  <p>Exemplo de site de compras</p>
-<h2>Tecnologias</h2> 
+<h3>Tecnologias</h3> 
 <ul>
-<li>React js 
-<ul><li>React router</li></ul>
+<li>Front-end</li>
+    <ul>
+    <li>React js</li>
+    <li>React router</li>
+    <li>Axios</li>
+    <li>React-icons</li>
+    </ul>
 </li>
+<li>Back-end</li>
+    <ul>
+    <li>Json-server</li>
+    </ul>
 </ul>
-
-
