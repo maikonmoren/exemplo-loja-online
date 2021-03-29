@@ -1,16 +1,17 @@
 
 .navbar {
     overflow: hidden;
-    background-color: rgb(153, 147, 147);
+    background-color: rgb(255, 255, 255);
     height: 90px;
     font-weight: bolder;
+    box-shadow: 0px 5px 10px rgba(128, 10, 10, 0.77);
   }
  .navbar img{
      width: 200px;
      margin-left: 6%;
  }
   .navbar svg{
-      justify-content: center;
+     vertical-align: middle;
   }
   .navbar a {
     float: right;
@@ -79,3 +80,25 @@
     display: block;
   }
   
+  /*Celular pequeno*/
+  @media screen and (max-width: 560px){
+    .navbar img{
+      width: 150px;
+      margin-left: 2px;
+      margin-top: 7px;
+  }
+    .navbar a{
+      font-size: 19px;
+    }
+    .dropdown {
+      margin-right: 2px;
+      font-size: 19px;
+    }
+    .dropbtn {
+      font-size: small;
+      font-weight:500;
+    }
+    .ini{
+      display: none;
+    }
+  }
